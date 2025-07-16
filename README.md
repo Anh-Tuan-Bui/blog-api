@@ -57,7 +57,7 @@ src/
 
 ### 2. Cài đặt
 #### Chạy bằng IntelliJ
-```bash
+```
 1. Clone repo:
    git clone https://github.com/Anh-Tuan-Bui/blog-api.git
 2. Mở project trong IntelliJ
